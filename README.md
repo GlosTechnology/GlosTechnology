@@ -1,7 +1,7 @@
 ## Hi there 👋
 - Glos Technology is a small tech company, that is broadening it horizions into the world of software development and AI.
 
-  - I’m currently learning Swift and the Apple developer program, adn want to get into software development. 
+  - I’m currently learning Swift and the Apple developer program, and want to get into software development. 
 
 <!--
 **GlosTechnology/GlosTechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
